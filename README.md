@@ -9,4 +9,4 @@ We provide input layers for training on the following datasets:
 2) BigBIRD [Link](http://rll.berkeley.edu/bigbird/)
 3) WRGB-D [Link](https://rgbd-dataset.cs.washington.edu/)
 
-The main python file is the correspondenceNetwork.py. Please see correspondenceParams.py for more details on setting the appropriate paths and data dependencies. 
+The main python file is the correspondenceNetwork.py. The architecture definition of the network can be found in coreNetworks.py. Please see correspondenceParams.py for more details on setting the appropriate paths and data dependencies. 
